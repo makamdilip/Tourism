@@ -41,7 +41,7 @@
 
 .favourite-places-bg-container {
     background-image: url("https://img.freepik.com/free-photo/table-with-touristic-camera-passport_23-2147732623.jpg?t=st=1718227020~exp=1718230620~hmac=5a1510edb453652d77615c685707393baa1c39caf0dab1d41cfb2d794334f7ad&w=740");
-    height: 100vh;
+    height: auto;
     background-size: cover;
 }
 
@@ -81,7 +81,7 @@
 
 .detailed-view-bg-container {
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
-    height: 100vh;
+    height: auto;
     background-size: cover;
 }
 
